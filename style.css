@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+  text-align: center;
+}
+img {
+  align-content: center;
+}
+a {
+  padding: 10px;
+  background-color: grey;
+}
+id {
+  font-size: small;
+  text-align: center;
+}
+p {
+  width: 800px;
+  text-align: center;
+  white-space-collapse: collapse;
+}
+div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
